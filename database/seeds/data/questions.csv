@@ -1,0 +1,30 @@
+id,subject_id,content
+1,1,Trình dịch PHP nào là trình dịch bạn cho là đúng?
+2,1,Chương trình nào không thuộc vào Hệ thống LAMP
+3,1,Engine nào là nền tảng chính của PHP?
+4,1,Khi thực thi PHP4 Script nó nhanh hơn PHP3 mấy lần
+5,1,Thực thi đọan code nào dưới đây để có thể biết PHP Environment đã được cài đặt đúng
+6,1,Cài đặt Apache xong bạn có thể kiểm tra servername của bạn qua cách gọi ulr http://localhost ngoài cách này còn cách nào khác nữa không?
+7,1,Có bao nhiêu lọai PHP Distribution?
+8,1,Apache Webserver xuất phát từ?
+9,1,PHP và Apache Server phát triển theo dạng Module vậy nó có thể
+10,1,Khi sử dụng bộ PHP & Apache bạn phải trả
+11,1,Ai là người đầu tiên phát minh ra PHP
+12,1,PHP dựa theo syntax của ngôn ngữ nào?
+13,1,W tượng trưng cho cụm từ nào trong gói WAMP
+14,1,Truớc khi đổi thành PHP: Hypertext Preprocessor nguồn gốc của nó phát xuất từ cụm
+15,1,Khi thực thi biến này $Var3 = $var1 % $var2 dạng type của nó là
+16,1,Dạng type nào sẽ được tự động dịch khi gán biến này $var = 50.0
+17,1,Số 41 này tương đương với số Bit nào
+18,1,Ứng dụng PHP có thể gắn ở
+19,1,Một biến thuộc dạng (type) integer có thể nhận giá trị tối đa là bao nhiêu?
+20,1,Output nào dưới đây là đúng. Khi gán cho biến $b có một giá trị tương đương với biến
+21,1,Câu lệnh nào là đúng khi bạn muốn biến đổi dang (type) thành integer?
+22,1,ký hiệu nào dùng để kết thúc câu lệnh trong PHP?
+23,1,Type boolean trả cho ta giá trị gì ?
+24,1,PHP không hổ trợ dạng type nào?
+25,1,Dấu (biểu tượng) nào đuợc dùng để làm thành một biến
+26,1,loại biến nào được dùng trong PHP?
+27,1,dạng type nào dùng cho chuỗi?
+28,1,Câu lệnh PHP nào không tương thích trong văn bản HTML
+29,1,câu lệnh nào dùng để xuất ra trình duyệt?
