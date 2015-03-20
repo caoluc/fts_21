@@ -18,6 +18,8 @@ class CreateExaminationsTable extends Migration
             $table->integer('correct_num')->default(0);
             $table->text('question_srlz');
             $table->tinyInteger('status')->default(0);
+            $table->datetime('start_time');
+            $table->datetime('end_time');
             $table->timestamps();
         });
     }

@@ -1,5 +1,9 @@
 <?php namespace app\Http\Controllers;
 
+use App\Services\SubjectSrv;
+use App\Services\ExaminationSrv;
+use Illuminate\Support\Facades\View;
+
 class HomeController extends Controller
 {
     /*
@@ -28,6 +32,12 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('home');
+        $subjectDatas = SubjectSrv::getData();
+        $examinations = ExaminationSrv::all();
+
+        return View::make('home', [
+            'subjectDatas' => $subjectDatas,
+            'examinations' => $examinations,
+        ]);
     }
 }

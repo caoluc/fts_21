@@ -11,6 +11,6 @@ class Subject extends Eloquent
 
     public function examinations()
     {
-        return $this->hasMany('Subject', 'subject_id', 'id');
+        return $this->hasMany('Examination', 'subject_id', 'id');
     }
 }

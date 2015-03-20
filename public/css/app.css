@@ -6231,3 +6231,50 @@ label,
 .checkbox label {
   font-weight: 300;
 }
+.logo {
+  float: left;
+  margin-right: 10px;
+  font-size: 1.7em;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  padding-top: 9px;
+  padding-left: 25%;
+  font-weight: bold;
+  line-height: 1;
+}
+.logout {
+  padding-right: 25%;
+}
+.home-title {
+  text-align: center;
+  font-weight: bold;
+}
+.btn-start {
+  font-size: 16px;
+}
+.home-submit {
+  display: inline-block;
+  text-align: center;
+}
+.exam-time {
+  display: inline-block;
+  width: 30%;
+  font-weight: bold;
+}
+.exam-testing {
+  display: inline-block;
+  width: 20%;
+}
+.timer {
+  position: fixed;
+  top: 70px;
+  right: 200px;
+}
+.question {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.examination {
+  padding-top: 5px;
+}

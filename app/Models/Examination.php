@@ -1,6 +1,7 @@
 <?php namespace app\Models;
 
 use Illuminate\Database\Eloquent\Model as Eloquent;
+use app\Models\Subject;
 
 class Examination extends Eloquent
 {
@@ -10,6 +11,8 @@ class Examination extends Eloquent
 
     public function subject()
     {
-        return $this->belongsTo('Examination', 'subject_id', 'id');
+        $subject = new Subject;
+
+        return $this->belongsTo($subject, 'subject_id', 'id');
     }
 }

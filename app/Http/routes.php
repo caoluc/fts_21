@@ -11,11 +11,14 @@
 |
 */
 
-Route::get('/', 'WelcomeController@index');
-
-Route::get('home', 'HomeController@index');
+Route::get('/', 'HomeController@index');
 
 Route::controllers([
     'auth' => 'Auth\AuthController',
     'password' => 'Auth\PasswordController',
 ]);
+
+Route::get('examination/{id}', 'ExaminationController@index');
+Route::post('examination', 'ExaminationController@store');
+Route::post('examination/{id}', 'ExaminationController@update');
+Route::get('examination/{id}/result', 'ExaminationController@result');
