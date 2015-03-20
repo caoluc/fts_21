@@ -1,0 +1,121 @@
+id,question_id,content,is_correct
+1,1,PHP Translator,
+2,1,PHP Interpreter,1
+3,1,PHP Communicator,
+4,1,Không có câu nào đúng,
+5,2,MySQL,
+6,2,Apache,
+7,2,Microsoft,1
+8,2,Linux,
+9,2,PHP,
+10,3,ZEDAT,
+11,3,ZEND,1
+12,3,ZENAT,
+13,3,ZETA,
+14,4,a) gấp 25,
+15,4,b) ------ 3,
+16,4,c) ------ 40,
+17,4,d) -------100,1
+18,5,a) phpinfo(),1
+19,5,b) phptatus(),
+20,5,c) phptest(),
+21,5,d) phpcheck(),
+22,6,a) http://127.0.0.1,1
+23,6,b) http://127.0.1.0,
+24,6,c) http://127.0.0.0,
+25,6,d) http://000.0.0.0,
+26,7,a) Source-Distribution,1
+27,7,b) Secondary Distribution,
+28,7,c) Primary Distribution,
+29,8,a) Tên của một giống dân thiểu số Apache,
+30,8,b) " a patchy Webserver ",1
+31,8,c) Apache Webserver Group,
+32,8,d) Apache Software Foundation,
+33,9,a) Có thể nới rộng thêm qua các phát triển của các phương thức phụ khác ( add-on function),1
+34,9,b) Không thể nới rộng thêm được bởi cả hai đã được cài gắn cố định,
+35,9,c) Có thể nhưng phải viết lại tất cả core,
+36,10,a) 1500$,
+37,10,b) 150$,
+38,10,c) 50$ / mỗi tháng,
+39,10,d) không tốn đồng nào,1
+40,11,a) James Gosling,
+41,11,b) Tim Berners-Lee,
+42,11,c) Todd Fast,
+43,11,d) Rasmus Lerdorf,1
+44,12,a) Basic,
+45,12,b) Pascal,
+46,12,c) C,1
+47,12,d) VB Script,
+48,12,e) Prolog,
+49,12,f) SQL,
+50,13,a) Word,
+51,13,b) Windows,1
+52,13,c) Whistler,
+53,13,d) While,
+54,14,a) Preminum Handled Processor,
+55,14,b) Personal HomePage Tools,1
+56,14,c) Printed Homepage Product,
+57,14,d) Personal Hightec Processor,
+58,15,a) double,
+59,15,b) integer,1
+60,15,c) string,
+61,15,d) boolean,
+62,16,a) double,1
+63,16,b) integer,
+64,16,c) string,
+65,16,d) boolean,
+66,17,a) 10010010,
+67,17,b) 00101001,1
+68,17,c) 00010101,
+69,17,d) 00101101,
+70,18,a) chỉ gắn được ở phần Header,
+71,18,b) -------------------------------- Body,
+72,18,c) chỗ nào cũng được trong văn bản (tệp) HTML,1
+73,19,a) +2147483647,1
+74,19,b) +1.734.484..684,
+75,19,c) +247.484,
+76,19,d) +3.954.876.201,
+77,20,a) $a =. $b;,
+78,20,b) $a +. $b;,
+79,20,c) $a .= $b;,1
+80,20,d) $a .+ $b;,
+81,21,a) $item = (int) "100Laptop";,1
+82,21,b) $tem = "int""100Laptop";,
+83,21,c) $item = [int] "100Laptop";,
+84,21,d) $item = INT"100Laptop";,
+85,22,a) dấu chấm đôi ( :: ),
+86,22,b) dấu phẩy (  ),
+87,22,c) dấu chấm phẩy ( ; ),1
+88,22,d) dấu thán ( ! ),
+89,23,a) true hay false,1
+90,23,b) equal hay unequal,
+91,23,c) bigger hay smaller,
+92,23,d) yes hay none,
+93,24,a) integer,
+94,24,b) string,
+95,24,c) single,1
+96,24,d) double,
+97,25,a) !,
+98,25,b) ?,
+99,25,c) %,
+100,25,d) $,1
+101,25,e) &,
+102,26,a) typeless variable,1
+103,26,b) headless variable,
+104,26,c) nameless variable,
+105,26,d) irrevelant variable,
+106,27,a) integer,
+107,27,b) double,
+108,27,c) string,1
+109,27,d) boolean,
+110,28,a) <?php echo "Hello World"; ?>,
+111,28,b) <? echo "Hello World"; ?>,
+112,28,c) <% echo "Hello World"; %>,
+113,28,d) <! echo "Hello Wordl"; !>,1
+114,28,e) <script language = "php"> echo "Hello World"; </script>,
+115,28,f) Tất cả đều sai,
+116,29,a) say,
+117,29,b) write,
+118,29,c) echo,1
+119,29,d) cout<<,
+120,29,e) writeline,
